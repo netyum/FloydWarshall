@@ -1,0 +1,10 @@
+{
+    "name": "musaevhs/floyd-warshall",
+    "description": "The implementation of the algorithm of Floyd Warshell from Janne Mikkonen",
+    "version": "dev-master",
+    "minimum-stability" : "dev",
+	"prefer-stable" : true,
+	"autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
